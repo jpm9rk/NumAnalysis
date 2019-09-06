@@ -1,5 +1,6 @@
 # James Morrissey
 # computingID: jpm9rk
+# Use a fixed point iteration scheme to find the fixed point of g(x)=exp(-x^2) on the interval [0,1]
 import math
 
 
@@ -11,7 +12,8 @@ initial_value = 0 # seting p_0 value for the algorithm
 counter = 0
 
 
-def g_function(xvalue):  # defines the function e^(-x^2)
+def g_function(xvalue):  
+    """Return exp(-x^2)."""
     yvalue = math.exp(-(xvalue**2))
     return yvalue
 
