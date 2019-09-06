@@ -1,6 +1,6 @@
 # James Morrissey
 # computingID: jpm9rk
-
+# Program to determine machine precision and smallest positive number of computing system
 import math
 import sys
 
