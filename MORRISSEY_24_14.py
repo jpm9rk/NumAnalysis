@@ -1,5 +1,6 @@
 # James Morrissey
 # computingID: jpm9rk
+# Use Newton's method to approximate all real roots
 # Newton's Method Applied to e^x + x^2 - x - 4
 
 import math
