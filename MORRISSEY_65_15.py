@@ -1,5 +1,6 @@
 # James Morrissey
 # computingID: jpm9rk
+# Approximate the integral using composite trapezoidal rule, composite midpoint rule, and composite Simpson's rule
 
 import math
 
