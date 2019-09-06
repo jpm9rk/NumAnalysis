@@ -1,6 +1,6 @@
 # James Morrissey
 # computingID: jpm9rk
-# NOTE: adapt functions form is that recommended by the text
+#Evaluate the integral using adaptive Simpson's rule
 
 import math
 ITERATION_MAX = 20
