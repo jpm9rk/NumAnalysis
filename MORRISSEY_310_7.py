@@ -1,5 +1,6 @@
 # James Morrissey
 # computingID: jpm9rk
+# Solve the nonlinear system of equations using Newton's method and Broyden's method
 
 from operator import add
 from operator import sub
