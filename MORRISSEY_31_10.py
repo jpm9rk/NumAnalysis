@@ -1,5 +1,6 @@
 # James Morrissey
 # computingID: jpm9rk
+# Solve the system using Gaussian elimination with back substitution
 
 
 print('PART A')
