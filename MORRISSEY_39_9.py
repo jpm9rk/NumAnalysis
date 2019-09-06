@@ -1,5 +1,6 @@
 # James Morrissey
 # computingID: jpm9rk
+# Solve the linear system of equations using conjugate gradient, Gauss-Seidel, and Jacobi methods
 
 from operator import add
 
