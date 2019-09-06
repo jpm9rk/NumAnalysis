@@ -1,5 +1,6 @@
 # James Morrissey
 # computingID: jpm9rk
+# Perform 5 iterations of Newton's method 
 # Newton's Method applied to x^7 = 3
 
 ITERATION_MAX = 5  # setting the max number of iterations
