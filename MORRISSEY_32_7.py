@@ -1,5 +1,6 @@
 # James Morrissey
 # computingID: jpm9rk
+# Solve the system using Gaussian elimination and partial pivoting
 
 
 matrix = [[2, 3, 1, -4], [4, 2, 4, 9], [3, 4, 6, 0]]
