@@ -1,5 +1,6 @@
 # James Morrissey
 # computingID: jpm9rk
+# Use the secant method to determine the fourth approximation to the root on the interval (0,1)
 # Find the zeros of cosx-x = 0 using the secant method
 
 import math
