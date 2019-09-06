@@ -1,7 +1,6 @@
 # James Morrissey
 # computingID: jpm9rk
-
-
+# Find the fourth order approximation to the root on the interval (0,1) using Newton's method
 # Perform Newton's method for the function cosx-x = 0
 # Newton's method is defined by g(x) = x - f(x)/f'(x)
 import math
