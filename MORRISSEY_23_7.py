@@ -1,5 +1,6 @@
 # James Morrissey
 # computingID: jpm9rk
+# Perform 7 iterations of fixed point iteration scheme and numerically confirm order of convergence
 # fixed point scheme for g(x) = 2x(1-x) which has fixed points at x=0,1/2
 # expectation is that the sequence will converge to 1/2 with quadratic convergence
 # implies e_n = lambda*e_(n-1)^2 where lambda is between 0 and 1
